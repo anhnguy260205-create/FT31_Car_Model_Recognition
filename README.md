@@ -35,3 +35,6 @@ In the sidebar, set:
 
 - Large datasets and checkpoint files are intentionally excluded from git via `.gitignore`.
 - If you want to version model weights, use Git LFS.
+
+## Presentation link
+https://youtu.be/kW19J6YhQy0?feature=shared 
